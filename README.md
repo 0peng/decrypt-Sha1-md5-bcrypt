@@ -1,13 +1,8 @@
-# decrypt-Sha1-md5-bcrypt
-Second Part of brute-foce weapon
+Part 2 of Your Brute-Force Toolkit
 
-here you can start with the second part of your weapon bruteforce attacks 
+This section focuses on the second phase of your brute-force attacks. Here’s how you can start pentesting hash-protected passwords:
 
-to can pentest your hash password 
-decrypt your password through decrypt tool 
-to get your sha1 or md5 or bcrypt 
-
-input your password name exm (test)
-than take your value to start your testing 
-throughing  bruteforce tool 
-input your hash value in brute force tool and wait the decrypt the hash 
+Use a decryption tool to target and decrypt passwords hashed with SHA1, MD5, or Bcrypt.
+Input your password, for example, test, into the decryption tool.
+Take the resulting hash value and proceed with brute-force testing.
+Insert the hash value into your brute-force tool and allow it to run until the hash is decrypted.
